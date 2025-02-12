@@ -38,11 +38,11 @@
 
 ##### [1.1.9 Linux驱动未来发展如何？感觉都是移植？](https://www.bilibili.com/video/BV1XNNGedEh8/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.2.0 末9人工智能本科考研结束准备找工作，C++ 和 Python 都会，如何选择职业方向？](https://www.bilibili.com/video/BV1KxNNeFEZM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.2.1 双非硕做QNX平台开发，想转Linux驱动开发，去芯片原厂机会大吗？](https://www.bilibili.com/video/BV1dTNNe3ETY/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.2.2 24届西南某邮硕士，卫星导航公司C++开发 vs 国企高校涉密工作，怎么选？](https://www.bilibili.com/video/BV1QoNteKEqL/?spm_id_from=333.1387.upload.video_card.click)
 
 <h3 id="2">java</h3> 
 
@@ -166,12 +166,22 @@
 
 ##### [10.1.5 双非本计科游戏开发一年被开，是读研提升学历还是还是自学再就业？](https://www.bilibili.com/video/BV1vNN5eeEHq/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [10.1.6 双非一本考研失败，春招如何能拿到一个较好的offer上岸？](https://www.bilibili.com/video/BV1vwN5eiEZ3/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.1.7 考研不理想，目前只会Python的话，如何找到自己的求职方向呢？](https://www.bilibili.com/video/BV1C2NVe2ERc/?spm_id_from=333.1387.upload.video_card.click)
+
+##### [10.1.8 211地质本科，考研计算机二战失败后做土木，现在想转行程序员从测试岗入门可行吗？](https://www.bilibili.com/video/BV1SJNteaEQp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
 
 <h3 id="11">AI</h3> 
 
 ---
 
-##### []()
+##### [11.1.1 AI会影响c/c++程序员的发展吗？](https://www.bilibili.com/video/BV1aNNGedEoz/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
