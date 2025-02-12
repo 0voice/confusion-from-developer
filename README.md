@@ -1,14 +1,13 @@
-# confusion-from-developer
-25年最新整理，1000个开发者的职业焦虑 含（C/C++, Java，嵌入式，存储，智驾，音视频，游戏，FPGA，CV）
+### 25年最新整理，1000个开发者的职业焦虑 含（C/C++, Java，嵌入式，存储，智驾，音视频，游戏，FPGA，CV）
+--- 
 
+##### [双非一本大二，三四个月如何制定学习路线，争取中厂实习岗位？](https://www.bilibili.com/video/BV1fWP1eZE76/?spm_id_from=333.337.search-card.all.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-[双非一本大二，三四个月如何制定学习路线，争取中厂实习岗位？](https://www.bilibili.com/video/BV1fWP1eZE76/?spm_id_from=333.337.search-card.all.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [本科中厂Java后端干两年半想换岗，担心就业面和技术门槛如何规划未来？](https://www.bilibili.com/video/BV1fDNaedEAn/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-[本科中厂Java后端干两年半想换岗，担心就业面和技术门槛如何规划未来？](https://www.bilibili.com/video/BV1fDNaedEAn/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [女生大四保研网安，医学图像处理项目经验，迷茫中如何选择学习方向？](https://www.bilibili.com/video/BV1fSNae4E1d/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-[女生大四保研网安，医学图像处理项目经验，迷茫中如何选择学习方向？](https://www.bilibili.com/video/BV1fSNae4E1d/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
-
-[双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi/?spm_id_from=333.1387.upload.video_card.click)
+##### [双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi/?spm_id_from=333.1387.upload.video_card.click)
 
 []()
 
