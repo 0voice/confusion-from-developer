@@ -1796,33 +1796,33 @@
 
 ---
 
-##### []()
+##### [20.1.1 24届自动化专业在国企仓库“躺平”，想转码但Java太卷，选QT还是Go更合适？](https://www.bilibili.com/video/BV1ZyNte5Esm/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.2 10 年Java开发找工作因学历屡碰壁，是否应该转型到Golang或区块链方向？](https://www.bilibili.com/video/BV1mVNHeGE1W/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.3 据说go和C#的开发者都说自己比较节省内存你们认为呢？](https://www.bilibili.com/video/BV1qSwae2EFX/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.4 双非一本日语专业自学编程从Java到Golang开发，计划考研985从事AI求指导建议](https://www.bilibili.com/video/BV1UjcHevE8o/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.5 双非硕研二控制工程转码，C++、Go、Java哪条路更适合我？从学基础到项目如何规划？](https://www.bilibili.com/video/BV1mPkEY3Eh8/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.6 普通211科班硕士如何选择更具竞争力的技术栈？是继续深入Java还是转向C++和Go？](https://www.bilibili.com/video/BV1mU6MYCEWS/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.7 双9科班校招转到iOS客户端，是否转回更有前景？学习Java或Go是否更有利于职业发展？](https://www.bilibili.com/video/BV1qdB9YUEYK/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [20.1.8 5年Java开发经验转Go语言是否值得？](https://www.bilibili.com/video/BV1hnULYsEmS/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.1.9 一年后端开发转Golang求职被经验门槛卡住，如何突破？](https://www.bilibili.com/video/BV1XdynYwEZp/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.2.0 如何规划Golang学习路线？考研与职业方向全面解析](https://www.bilibili.com/video/BV1iP2YYGE9s/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.2.1 双非211硕士CV方向迷茫，选择嵌入式、Golang、C++还是Java？](https://www.bilibili.com/video/BV1F928YGEHg/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.2.2 2025年的大厂对go程序员需求多吗？未来大厂的机会与学习路径是什么？](https://www.bilibili.com/video/BV1T8xxe6Ewo/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.2.3 本二做人工智能，计划考研，如果失败走Go开发可以吗？](https://www.bilibili.com/video/BV1khHMegEu7/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [20.2.4 双非电子信息硕，打算走c++和go,有什么建议吗？](https://www.bilibili.com/video/BV1hCYMeHER1/?spm_id_from=333.1387.search.video_card.click)
 
 ##### []()
 
@@ -1845,7 +1845,61 @@
 
 ---
 
-##### []()
+##### [21.1.1 2本通信gap两年半，报培训班C++QT，进华为OD失败接下来如何规划职业方向？](https://www.bilibili.com/video/BV1vHNoeXEvT/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.2 24届自动化专业在国企仓库“躺平”，想转码但Java太卷，选QT还是Go更合适？](https://www.bilibili.com/video/BV1ZyNte5Esm/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.3 专升本机械电子，工控视觉上位机开发一年多007常出差扛不住，转QT和考研哪个更合适职业发展？](https://www.bilibili.com/video/BV1bpPye6EwC/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [21.1.4 双非本211硕测绘转码计算机，是选择c++Qt还是Java](https://www.bilibili.com/video/BV1ukwheYE3K/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.5 本科国贸37岁转行前端现做Java和QT，刚获物联网自考本科，面临40岁危机该转嵌入式吗？](https://www.bilibili.com/video/BV1TqwLeDEmb/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [21.1.6 27 岁双非非科班硕士，秋招offer传统中厂 C++QT 与大厂游戏测开如何选择？](https://www.bilibili.com/video/BV1iccHe1E3N/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.7 二本机械非科班，6年QT年薪40W，想进大厂应该选择什么技术方向？](https://www.bilibili.com/video/BV1gKrzYqEgg/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.8 双一流计算机大三，准备明年找实习应该全力投入音视频还是QT开发？](https://www.bilibili.com/video/BV1k5rGYjEtc/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.1.9 二本机械电子大四，stm32+QT项目，想找 Linux 工作该往哪些岗位投递简历？](https://www.bilibili.com/video/BV1nM63YBE7w/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.0 二本今年毕业生没有基础，是考研还是学习QT就业？](https://www.bilibili.com/video/BV1CnCbYPEL1/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.1 面试Qt岗位是不是也有八股文要背？如何准备Qt面试才能脱颖而出？](https://www.bilibili.com/video/BV1VikuYbE2k/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.2 Qt有哪些项目推荐写进简历里面吗?](https://www.bilibili.com/video/BV1aekEYDEmn/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.3 24届本科毕业，5个月QT开发想转型互联网，工作多久跳槽合适？](https://www.bilibili.com/video/BV11KqQYnEbZ/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.4 大三非科班转码，学习C/C++后发现找不到实习，我应该走QT还是Java？](https://www.bilibili.com/video/BV1yMq6YnExB/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.5 转码Qt开发入门：学习到什么程度可以投简历？如何规划更适合未来转音视频？](https://www.bilibili.com/video/BV1FKz5YyEfX/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.6 双一流硕软工专业，3年Qt开发经验只能拿到小公司Offer？有没有好的建议？](https://www.bilibili.com/video/BV1FwULYBE2d/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.7 QT的最终归宿是音视频？](https://www.bilibili.com/video/BV1hCD6YYEmP/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.8 211硕士C++后端选手秋招不顺，小厂Qt实习是转机还是浪费时间？](https://www.bilibili.com/video/BV1SwDSYpENM/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.2.9 大三已学C++基础，大四实习：Qt技术栈与工业软件，哪条路更值得选择？](https://www.bilibili.com/video/BV1zJxFenEFm/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [21.3.0 二本软件工程，纠结考研，学长推荐先就业，觉得QT有上限，想走嵌入式Linux可以吗](https://www.bilibili.com/video/BV1H7tjeCEXV/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [21.3.1 双非本大数据，目前做c++Qt,感觉门槛不高，可以转什么方向？](https://www.bilibili.com/video/BV1Um4HeeE5r/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.2 普本211，计划Qt保底，还想冲冲嵌入式或是音视频，要怎么准备？](https://www.bilibili.com/video/BV1fgHjedE9i/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.3 大专3+2，未来计划升杭电，能走Qt吗，还是说要去走java](https://www.bilibili.com/video/BV1P6HNeqEf8/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.4 双非本211硕，能入坑QT方向吗？](https://www.bilibili.com/video/BV1ytWpexEfT/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.5 专本25应届，干过前端，现在能走Qt或是linux开发方向吗？](https://www.bilibili.com/video/BV1AYenerE7s/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.6 C9非科班，一年qt客户端开发经验，能转c++的哪些方向？](https://www.bilibili.com/video/BV1XfYjeVExE/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.7 985硕，不想学QT了，我还能走什么方向？](https://www.bilibili.com/video/BV17SYTebEB6/?spm_id_from=333.1387.search.video_card.click)
+
+##### [21.3.8 211本硕走c++,是选QT还是音视频？](https://www.bilibili.com/video/BV1Mf421B7k1/?spm_id_from=333.1387.search.video_card.click)
 
 ##### []()
 
@@ -1862,45 +1916,18 @@
 ##### []()
 
 ##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
-##### []()
-
 
 <h3 id="22">DPDK</h3> 
 
 ---
 
-##### []()
+##### [22.1.1 DPDK、VPP经验能否转型？31岁通信专业如何规划进入国企？](https://www.bilibili.com/video/BV1PgznYNEKX/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [22.1.2 DPDK方向职业前景如何？值得深入研究吗？](https://www.bilibili.com/video/BV1pUzrYfEmZ/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [22.1.3 211本985硕，c++后端3年工作经验 可以直接面dpdk开发的岗位吗？](https://www.bilibili.com/video/BV1TT4YeaE5q/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [22.1.4 失业被裁，同学推荐去DPDK做智能网卡，要想提高通过率的话，如何去准备面试？](https://www.bilibili.com/video/BV11gpMemEpi/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
@@ -1943,19 +1970,19 @@
 
 ---
 
-##### []()
+##### [23.1.1 30岁硕士Linux C开发背景，未来想去澳洲就业，研究方向选AI、SDN漏洞还是Linux内核？](https://www.bilibili.com/video/BV19xNVecEvu/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [23.1.2 研究linux内核有意义吗？是否值得投入时间和精力](https://www.bilibili.com/video/BV1uWiUYEE7T/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [23.1.3 内核方向值得学习吗？市场需求和职业前景如何？](https://www.bilibili.com/video/BV19SBiYfEKa/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [23.1.4 25届校招生，已有两段大厂实习。目前有一家linux内核实习很喜欢，是继续实习还是去秋招？](https://www.bilibili.com/video/BV1no4heJErv/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [23.1.5 双非一本，华为OD三年，想跳槽，学习linux内核或是c++是否合适？](https://www.bilibili.com/video/BV1CpHSeoEU4/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [23.1.6 211本机械985计算机，数据库内核开发怎么样？](https://www.bilibili.com/video/BV1kms5eeEQC/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [23.1.7 211本硕准备c++后端秋招，但是又对内核感兴趣，能all in内核岗位？](https://www.bilibili.com/video/BV1RmYxe6Exu/?spm_id_from=333.1387.search.video_card.click)
 
 ##### []()
 
@@ -1992,39 +2019,39 @@
 
 ---
 
-##### []()
+##### [24.1.1 二本非科班大四只会Python，计划年后实习找数据分析秋招冲大厂可行吗？](https://www.bilibili.com/video/BV1zGNoefEzy/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.2 移民到美国读大学，接触过C++和Python，如何选择未来职业方向并进入适合的细化领域？](https://www.bilibili.com/video/BV1dpNVeAEpd/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.3 24岁大二熟悉C++、Python和ROS2，是该考研还是直接就业？](https://www.bilibili.com/video/BV1BfNVezEv2/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.4 考研不理想，目前只会Python的话，如何找到自己的求职方向呢？](https://www.bilibili.com/video/BV1C2NVe2ERc/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.5 末9人工智能本科考研结束准备找工作，C++ 和 Python 都会，如何选择职业方向？](https://www.bilibili.com/video/BV1KxNNeFEZM/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.6 哈工大信息管理与信息系统本科，有C++和Python基础，如何选择就业方向？](https://www.bilibili.com/video/BV1TgwYeAE5R/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.7 西交硕机械研一用过Python和C++，如何自学软件开发提高就业选择的余地？](https://www.bilibili.com/video/BV1E7iRY2EV6/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.8 双非本985控制硕大厂求职，如何规划技术学习路径，除了Python哪些语言更具认可度？](https://www.bilibili.com/video/BV1pDzrYtETM/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.1.9 有C++和Python基础，春招到底是学Java还是走测试岗位更好？](https://www.bilibili.com/video/BV142SuYTEdm/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.0 地方财经院校硕士：研一从零开始学 Python，收入20万有多大可能？](https://www.bilibili.com/video/BV1soD6Y9ELv/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.1 双非专业交通运输专业研一转码Python够用吗？还是选择C++ or Java？](https://www.bilibili.com/video/BV196SoY1ENX/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.2 211本科c9硕士光谱分析：只会点Python和C如何转码？三条转码路线推荐！](https://www.bilibili.com/video/BV1qC1LYfEDm/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.3 二本本科985硕，学Python就够了？Python专精转大模型应用靠谱吗？](https://www.bilibili.com/video/BV1sNyQYqE8m/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.4 军工211本985硕研一：无实习经验，会点Python和C++如何规划学习路线？](https://www.bilibili.com/video/BV1CLxseFEA5/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [24.2.5 二本化工生自学Python目标大厂，学习路线与岗位选择怎么规划？](https://www.bilibili.com/video/BV1PtsSeNEQb/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [24.2.6 211本大二应用化学转码计算机，目前掌握C和python基础语法，接下来该怎么学习？](https://www.bilibili.com/video/BV1F3pwe9Efy/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [24.2.7 双九本硕，只会python调参，如何构建3W代码的能力？](https://www.bilibili.com/video/BV1UdHKeLE5u/?spm_id_from=333.1387.search.video_card.click)
 
 ##### []()
 
