@@ -1661,17 +1661,17 @@
 
 ---
 
-##### [双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [16.1.1 双非本西电通信工程研一无人机地面站方向，想转行C++，哪个岗位最适合进大厂？](https://www.bilibili.com/video/BV177Noe4EJi/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### [专升本准备考研西电，Java和C++选哪个？职业就业和考研方向如何规划？](https://www.bilibili.com/video/BV1pUNoeNEMW/?spm_id_from=333.1387.search.video_card.click)
+##### [16.1.2 专升本准备考研西电，Java和C++选哪个？职业就业和考研方向如何规划？](https://www.bilibili.com/video/BV1pUNoeNEMW/?spm_id_from=333.1387.search.video_card.click)
 
-##### [西电人工智能大三本科就业，迷茫就业方向该走前端、后端还是测开？](https://www.bilibili.com/video/BV1yDPCeaEMb/?spm_id_from=333.1387.search.video_card.click)
+##### [16.1.3 西电人工智能大三本科就业，迷茫就业方向该走前端、后端还是测开？](https://www.bilibili.com/video/BV1yDPCeaEMb/?spm_id_from=333.1387.search.video_card.click)
 
-##### [西电通信工程毕业，在国企画原理图调电路板，想转编程不知道怎么学？](https://www.bilibili.com/video/BV16QcneQE8L/?spm_id_from=333.1387.search.video_card.click)
+##### [16.1.4 西电通信工程毕业，在国企画原理图调电路板，想转编程不知道怎么学？](https://www.bilibili.com/video/BV16QcneQE8L/?spm_id_from=333.1387.search.video_card.click)
 
-##### [桂电本西电硕研一：深度学习转开发，自学嵌入式能否找到工作？](https://www.bilibili.com/video/BV1rasfepEj9/?spm_id_from=333.1387.search.video_card.click)
+##### [16.1.5 桂电本西电硕研一：深度学习转开发，自学嵌入式能否找到工作？](https://www.bilibili.com/video/BV1rasfepEj9/?spm_id_from=333.1387.search.video_card.click)
 
-##### [双非本西电硕，感觉cc++更适合自己的职业规划，希望能推荐下相关的学习路线和教程](https://www.bilibili.com/video/BV1BvpceEEFN/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+##### [16.1.6 双非本西电硕，感觉cc++更适合自己的职业规划，希望能推荐下相关的学习路线和教程](https://www.bilibili.com/video/BV1BvpceEEFN/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
@@ -1688,13 +1688,13 @@
 
 ---
 
-##### []()
+##### [17.1.1 哈工大信息管理与信息系统本科，有C++和Python基础，如何选择就业方向？](https://www.bilibili.com/video/BV1TgwYeAE5R/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [17.1.2 哈工大C9自动化大四，准备读研转码，如何确定学习重点并明确未来的转码方向？](https://www.bilibili.com/video/BV1uYwLeWEWp/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [17.1.3 哈工大控制研二，想走无人机控制算法方向，该如何学习C++并准备面试？](https://www.bilibili.com/video/BV1N2znY6EUg/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [17.1.4 哈工大动能专业转战Linux C++嵌入式，就业会被卡专业代码吗？简历项目怎样才算合格？](https://www.bilibili.com/video/BV1LH28YPEhJ/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
