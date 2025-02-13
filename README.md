@@ -1747,17 +1747,17 @@
 
 ---
 
-##### []()
+##### [19.1.1 双非硕做QNX平台开发，想转Linux驱动开发，去芯片原厂机会大吗？](https://www.bilibili.com/video/BV1dTNNe3ETY/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [19.1.2 进入芯片原厂做嵌入式开发，如何规划技术发展和未来的职业方向](https://www.bilibili.com/video/BV1KozSYxEYS/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [19.1.3 南京双一流研一深度学习+芯片时序分析，适合走Linux C++还是Java开发？](https://www.bilibili.com/video/BV1PozVYSE2u/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [19.1.4 五年音视频开发安防经验，想转纯嵌入式，做主流芯片开发，推荐吗？](https://www.bilibili.com/video/BV1KsUeYvExe/?spm_id_from=333.1387.search.video_card.click)
 
-##### []()
+##### [19.1.5 985硕士选择未来职业方向，芯片工具链开发与后端开发，到底哪个才是更有前途的选择？](https://www.bilibili.com/video/BV1PixxevEwP/?spm_id_from=333.1387.search.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [19.1.6 211本华五硕，有过芯片厂实习经历，后面走AI部署还是开发呢？](https://www.bilibili.com/video/BV1c9pmeQE4u/?spm_id_from=333.1387.search.video_card.click)
 
 ##### []()
 
