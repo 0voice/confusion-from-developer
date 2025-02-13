@@ -178,13 +178,57 @@
 
 ##### [1.8.8 为什么C++岗位大多要求熟悉Linux操作系统？](https://www.bilibili.com/video/BV1tSD6YbEQq/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.8.9 腾讯C++实习，但以后想找Java，要跑路吗?](https://www.bilibili.com/video/BV1VEDrYzE4a/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.9.0 双非本9硕就业方向：推荐算法与软开岗位哪个更适合？现在C++岗位是不是很少？](https://www.bilibili.com/video/BV14hDzYXENa/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.9.1 末流211通信工程有医疗实习一年，如何寻找C++方向的产品化项目来提升简历？](https://www.bilibili.com/video/BV1cjDVYMEFj/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [1.9.2 211软工硕：Java开发的上限低C++开发hc少，如何在两者中做出选择？](https://www.bilibili.com/video/BV1QeDVYREE9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.3 双非秋招0 offer，真该放弃C++吗？是转行做测试还是考公？](https://www.bilibili.com/video/BV1qUDNYVECL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.4 普通一本大四生，投递C++岗位简历回复少？为什么你的简历拿不到面试机会！](https://www.bilibili.com/video/BV15fD8YkEEx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.5 985信息工程大二方向选择迷茫：C++、嵌入式、工控？未来职业发展方向深度解析](https://www.bilibili.com/video/BV18RSBYWEjM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.6 在职自学想进鹅厂学习路线迷茫，后台开发方向要不要深入C++算法？职业发展规划详解！](https://www.bilibili.com/video/BV1yWSBYyEqV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.7 C++变得越来越难用！是进步还是退步？开发者的真实感受！](https://www.bilibili.com/video/BV1RYSRYkEme/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.8 双非硕的纠结：是自学嵌入式走偏硬件还是说深入学习Linuxc/c++走软开呢？](https://www.bilibili.com/video/BV1AQSEYRETp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.9.9 211本硕电子研二自学C++计划明年上半年找到大厂实习，C++学习怎么规划才最有效？](https://www.bilibili.com/video/BV17USgYREWB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.0 大学生的编程焦虑：唐尚珺的C语言选择引发热议！](https://www.bilibili.com/video/BV1SzS8YaEq6/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.1 武理本南理硕研一：算法卷不动走向开发岗？自学Linux C++如何规划开发技能树？](https://www.bilibili.com/video/BV18YStYZEbv/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.2 学习C++：看视频详解还是直接看文档？如何找到最佳学习方式？](https://www.bilibili.com/video/BV16j15YtEwb/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.3 工科类211本硕研一军工背景+深度强化学习，走嵌入式C++方向如何规划学习以拿下20K+？](https://www.bilibili.com/video/BV1dQ17YcE7p/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.4 全网劝退客户端开发？末二本，C++后端选手两个意向:美团移动端和字节客户端到底该不该接！](https://www.bilibili.com/video/BV14n1sYvE6Z/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.5 华五本硕计算机研0：如果未来走cpp担心学习周期太长，继续学习C++还是转向Java？](https://www.bilibili.com/video/BV1qc1sYEEwN/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.6 转行失败？秋招面试寥寥无几，211电子信息专业研三转C++如何提升项目含金量与面试成功率？](https://www.bilibili.com/video/BV1zp1NYaEw4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.7 双非本211硕研一：C++校招什么时候定方向最合适？早定方向会不会走窄？不定方向又怕错失机会，究竟该如何选择？](https://www.bilibili.com/video/BV1iJyLYHEwF/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.8 双非本211硕目前研一，非科班想转码想走C++底层开发，但导师要求做深度学习！该怎么办？](https://www.bilibili.com/video/BV1uUy5YkErX/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.10.9 中九计科计划新加坡&香港就业该选哪条路？C++方向就业前景如何？](https://www.bilibili.com/video/BV1QxyLYjEt3/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.11.0 机械本硕双二想要学习c++软开方面的内容，如何规划一条合理的学习路线？](https://www.bilibili.com/video/BV1SbyLY5Ef5/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.11.1 如何选择合适的项目来提升开发能力？Linux C++从基础到进阶的学习路径](https://www.bilibili.com/video/BV1JvCdYzELv/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.11.2 中九本硕电子信息研二：C++基础薄弱，如何为国企求职做好准备？](https://www.bilibili.com/video/BV1WyCRYCEtN/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.11.3 双非本杭电硕研二准备3个月边实习边零基础学C++，秋招冲刺C++岗位这条路可行吗](https://www.bilibili.com/video/BV1VbCoYYEBe/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [1.11.4 双非通信工程本专业就业前途渺茫，想转C++开发是否合适，接下来该如何学习？](https://www.bilibili.com/video/BV1KKCmY4EK1/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
@@ -297,6 +341,50 @@
 ##### [2.5.0 5年Java开发经验转Go语言是否值得？](https://www.bilibili.com/video/BV1hnULYsEmS/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### [2.5.1 制造业倒班太难熬，双非二本非科班转行IT Java开发可行吗？](https://www.bilibili.com/video/BV1ACmpYfEGu/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [2.5.2 杭电硕计科研一，想卷java进大厂!这个目标真的靠谱吗？](https://www.bilibili.com/video/BV1yRS3YzEfu/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [2.5.3 Java后端太饱和！留学毕业后转行云原生开发能否成为新出路？](https://www.bilibili.com/video/BV14TyHY9Ee7/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ##### []()
 
@@ -422,6 +510,26 @@
 
 ##### [3.5.1 211研一容错控制：毕业后想靠嵌入式C++高薪就业，如何规划学习路线？](https://www.bilibili.com/video/BV1Ppm2YhEmz/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [3.5.2 双非研一烦恼：论文搞定后才能学嵌入式？如何规划嵌入式硬件的学习路线？](https://www.bilibili.com/video/BV1V6DQYNEn5/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.3 从嵌软开发到架构师？如何从公司现有框架中突破自我规划自己的职业发展？](https://www.bilibili.com/video/BV1HHDQY7ELF/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.4 211通信工程研一：嵌入式偏硬件方向学习路线如何规划？是否要学Linux及其他关键技能](https://www.bilibili.com/video/BV1iUDUYwEUJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.5 嵌入式培训靠谱吗？是选择参加培训还是直接上班更划算？](https://www.bilibili.com/video/BV1gZD2YEEsr/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.6 本硕211研二深度强化学习本专业不好找工作，想半年多的自学嵌入式？](https://www.bilibili.com/video/BV1cvDAY5Exr/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.7 理想（车载嵌入式）vs.理想（工控安全）offer 选择困难症？未来职业规划的选择指南](https://www.bilibili.com/video/BV1F4SoYxEY1/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.8 211本保研失败，就业是继续找嵌入式的工作还是签BYD软测？](https://www.bilibili.com/video/BV1AjSnYtEgv/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [3.5.9 嵌入式驱动开发：技能优先还是学历优先？未来发展与就业门槛](https://www.bilibili.com/video/BV1kbyDYwEQx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
 ##### []()
 
 ##### []()
@@ -466,7 +574,7 @@
 
 ##### [4.1.1 25届专升本职业抉择，从Java到年薪43万分布式存储，是否应该果断转C++？](https://www.bilibili.com/video/BV13wk3Y8EiJ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [4.1.2 C9研二计划转高性能网络/储存岗位方向，8个月准备真的够吗？](https://www.bilibili.com/video/BV13gSBYsEig/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
@@ -504,6 +612,28 @@
 
 ##### [5.1.8 毕业从事TBOX应用开发，如何做好未来的职业规划？](https://www.bilibili.com/video/BV1FdB2YiEWE/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [5.1.9 211本985硕跨考计算机研一高薪与职业上限：仿真测试、系统开发还是后端开发？](https://www.bilibili.com/video/BV1SZSbYhE4z/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 ##### []()
 
 ##### []()
@@ -525,6 +655,28 @@
 ##### [6.1.6 五年音视频开发安防经验，想转纯嵌入式，做主流芯片开发，推荐吗？](https://www.bilibili.com/video/BV1KsUeYvExe/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### [6.1.7 QT的最终归宿是音视频？](https://www.bilibili.com/video/BV1hCD6YYEmP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ##### []()
 
@@ -556,6 +708,28 @@
 
 ##### []()
 
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 <h3 id="8">FPGA</h3> 
 
 ---
@@ -572,12 +746,33 @@
 
 ##### [8.1.6 985女生大二，学STM32是浪费学历吗？如何找到适合自己的方向？](https://www.bilibili.com/video/BV14SUxYLExn/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [8.1.7 211电子研二课题与实际应用毫无关系计划求职硬件岗，FPGA、IC、嵌入式，硬件转行的新手误区！](https://www.bilibili.com/video/BV1bRS4YREb9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [8.1.8 本硕211研一在读电子信息专业：今年秋招太卷！FPGA和嵌入式之间如何抉择](https://www.bilibili.com/video/BV1Hh1sYZErS/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [8.1.9 保研北航纠结研究方向选择：卫星导航、FPGA、传感器！各自的优势与发展前景解析](https://www.bilibili.com/video/BV17K1KYAE1J/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
 ##### []()
 
 ##### []()
 
 ##### []()
 
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 <h3 id="9">CV</h3> 
 
@@ -921,6 +1116,102 @@
 
 ##### [10.16.8 RAG大模型研究方向冷门，要不要自学转开发？](https://www.bilibili.com/video/BV1rHD6YmEPL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
+##### [10.16.9 双非硕研三：感觉算法不好找工作，是继续找小厂算法还是换方向？](https://www.bilibili.com/video/BV1aKDYY1E8m/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.0 秋招颗粒无收，十一、十二月是等补录还是再实习备战春招？](https://www.bilibili.com/video/BV1sWDYYPEHy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.1 控制工程研一想进入机器人行业，请问就业电机驱动这个方向有机会吗？](https://www.bilibili.com/video/BV1rpDQY2Emt/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.2 25届211硕士：20万国企非技术岗vs.30万私企软开，如何选择职业发展方向](https://www.bilibili.com/video/BV1piDUY3EaM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.3 211硕士C++后端选手秋招不顺，小厂Qt实习是转机还是浪费时间？](https://www.bilibili.com/video/BV1SwDSYpENM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.4 本硕双非研一：学长说硬件找工作，选择硬件还是软件？为什么硬件找工作比软件简单？](https://www.bilibili.com/video/BV1ZHDsYaEW9/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.5 工科转开发与非科班转码的区别：学习路线与就业方向](https://www.bilibili.com/video/BV1BiDHYxEtL/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.6 双非本硕211研一，计划新一线城市就业怎么选方向？](https://www.bilibili.com/video/BV1mjSBYJEtH/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.7 双非计硕感觉就业形势严峻，是继续卷开发还是考编当老师？](https://www.bilibili.com/video/BV1c7DPY1EzV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.8 双非专业交通运输专业研一转码Python够用吗？还是选择C++ or Java？](https://www.bilibili.com/video/BV196SoY1ENX/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.17.9 土木转码有多难？985本硕土木工程系转行做程序开发，学习路径与求职策略解析](https://www.bilibili.com/video/BV119SRYFESn/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.0 211本科c9硕士光谱分析：只会点Python和C如何转码？三条转码路线推荐！](https://www.bilibili.com/video/BV1qC1LYfEDm/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.1 研一计算所hpc高性能方向：毕业后我能找到什么样的工作？](https://www.bilibili.com/video/BV1eT1sY5Eui/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.2 25毕业应届双非硕C++ Java双修秋招求职屡屡碰壁！我该All in 哪边？](https://www.bilibili.com/video/BV1JR1WYWESV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.3 双非本南邮硕电子信息研一转码：优先掌握哪些编程语言？与学习路径推荐](https://www.bilibili.com/video/BV1DV1sYgEmx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.4 二本本科985硕，学Python就够了？Python专精转大模型应用靠谱吗？](https://www.bilibili.com/video/BV1sNyQYqE8m/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.5 985数学系计划转院计算机，哪些方向是‘香饽饽’高门槛？](https://www.bilibili.com/video/BV1w3yQYYEV4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.6 985本复旦硕材料专业，就业寒冬要不要转码，如何毕业找工作做准备？](https://www.bilibili.com/video/BV18RyDY5EzR/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.7 211本浙大硕工业大数据+大模型就业前景分析，如何将408中的知识与实际代码结合？](https://www.bilibili.com/video/BV1wpy2YDE5U/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.8 双非硕都通信工程，毕业后29，如何应对35岁年龄危机？寻找适合自己的职业路径](https://www.bilibili.com/video/BV1nRy6YeEjo/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.18.9 211本985硕研一：专业无对口岗位，无法实习转码的最佳选择是什么？](https://www.bilibili.com/video/BV1jw1wYnEeh/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.0 双非本211控制硕士：明年秋招，老师让我多投几篇论文是在浪费时间吗？](https://www.bilibili.com/video/BV1xk1cYAEbx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.1 秋招惨败！所有公司都是只有一面，真的是实力问题吗？如何找出问题？](https://www.bilibili.com/video/BV1xn1FYbEw4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.2 秋招offer选择：BAT vs. 独角兽，两份优质offer薪资相近却有天壤之别？](https://www.bilibili.com/video/BV1BuyoYuE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.3 拿到实习offer却心慌！学历不够高实习转正无望吗？量化开发的职场攻略与学历影响分析](https://www.bilibili.com/video/BV1JyypY7ERK/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.4 一年后端开发转Golang求职被经验门槛卡住，如何突破？](https://www.bilibili.com/video/BV1XdynYwEZp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.5 双非本材料硕：在导师不放实习的情况下，研一转码应该如何准备？](https://www.bilibili.com/video/BV1wEyHYjEMM/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.6 方向迷茫：选择人工智能还是计算机体系结构，放养型导师还是牛导哪个更具发展潜力？](https://www.bilibili.com/video/BV1q7CRYAESG/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.7 双非本985硕电子信息专业考虑转码，何规划有效的转码学习路线？](https://www.bilibili.com/video/BV19sCRY4E34/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.8 双非本211硕士面临选择：学习硬件还是专注金融IT？哪个方向更具前景？](https://www.bilibili.com/video/BV1ywCRYGEYj/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.19.9 人工智能专业研三方向迷茫，无实习无论文秋招是否注定失败？](https://www.bilibili.com/video/BV14BCRYmEnW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.20.0 中九本上海TOP2直博想转码进大厂，从就业的角度哪个方向更合适](https://www.bilibili.com/video/BV1cLCmYnERP/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [10.20.1 理工本科非科班学了网安却只能干运维，现在转鸿蒙开发能否弯道超车？](https://www.bilibili.com/video/BV1gBCmYvEhV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
+
 ##### []()
 
 ##### []()
@@ -997,9 +1288,9 @@
 
 ##### [11.2.3 华为软开与比亚迪电机控制哪一个更适合长期发展？](https://www.bilibili.com/video/BV1XdSMY3EPW/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [11.2.4 考研转码：西交AI vs 中科大软件工程，考研纠结症？别焦虑未来，先上岸才是硬道理！](https://www.bilibili.com/video/BV1jTShYVELx/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
-##### []()
+##### [11.2.5 双非本硕：非科班转行AI部署适合吗？有什么推荐的技术栈？](https://www.bilibili.com/video/BV1DjyrYEEjS/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### []()
 
@@ -1211,6 +1502,50 @@
 ##### [12.10.8 对于非科班学生，编程能力具体是什么，如何锻炼编程能力?](https://www.bilibili.com/video/BV1x9D6YdEy5/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
 
 ##### [12.10.9 互联网大厂内推是否真的比官网投递更有效？](https://www.bilibili.com/video/BV1AnD6YJENh/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.0 双非硕士学后端开发都学到微服务了，但是网上劝退声不断该继续吗？](https://www.bilibili.com/video/BV1KDDSYSEWZ/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.1 实习期间该不该继续投秋招？实习与秋招正式offer的区别解析](https://www.bilibili.com/video/BV1GYDVYxETp/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.2 学习编程应更加注重技术本身的学习？ 还是编程思维的训练？](https://www.bilibili.com/video/BV1q8DKY5EJg/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.3 简历加分WebServer项目究竟该如何选择？错误方式=纯粹浪费时间？](https://www.bilibili.com/video/BV12MDKYbEqD/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.4 二本计算机专业求职迷茫：投了一千多份简历只有1个面试！ 除了Java后端开发，哪些岗位值得尝试？](https://www.bilibili.com/video/BV1QPDhYuEno/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.5 24届校招生第一份工作入职四个月就后悔！负能量爆棚，离职还是留下？](https://www.bilibili.com/video/BV1ZXD8Y2E3k/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.6 CMake 凭借什么成为了C/C++构建系统的事实“标准”?](https://www.bilibili.com/video/BV1KNDsY5E3r/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.7 应届生秋招问题千篇一律？300+人反馈的10大核心问题！](https://www.bilibili.com/video/BV1JDSqYMEcy/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.8 211本，985硕天坑专业与计算机不沾边如何转码？转码是否真有未来？](https://www.bilibili.com/video/BV1aUSBYtEHk/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.11.9 程序员脱单攻略！写代码就能找到女朋友？！](https://www.bilibili.com/video/BV1FaSBYgE2y/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.0 程序员‘去正编化’现象：经济大环境的真实写照？](https://www.bilibili.com/video/BV1pcSZYAEou/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.1 薪10K与20K程序员的差距是什么？程序员薪资差距分析：究竟什么决定了你的工资？](https://www.bilibili.com/video/BV1HzSHY8EuV/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.2 小公司实习是否真的有价值，还是应该寻找更大公司以提升自己的竞争力？](https://www.bilibili.com/video/BV1DJSHYVEZC/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.3 是努力不够，还是学习方法错？重邮计硕的焦虑怎么解？](https://www.bilibili.com/video/BV1GZSHY7EqB/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.4 银行科技金融岗与项目实施顾问如何选择，如何判断哪些岗位值得追求？](https://www.bilibili.com/video/BV1ivSVYcERY/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.5 职场焦虑下的选择：30岁了，我还适合考研吗？](https://www.bilibili.com/video/BV1avS8YKEyz/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.6 程序员面试遇难题，到底是说不会还是试图解释？这样回答更好！](https://www.bilibili.com/video/BV1zf1xYtES4/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### [12.12.7 程序员是如何在短时间内掌握海量技术的？](https://www.bilibili.com/video/BV1oN14YWE5W/?spm_id_from=333.1387.upload.video_card.click&vd_source=8982fc434289b5c9c5260a18e119f107)
+
+##### []()
+
+##### []()
+
+##### []()
+
+##### []()
 
 ##### []()
 
